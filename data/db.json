@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Post!",
+      "datetime": "May 30, 2023 8:39:25 PM",
+      "body": "Hello! this is the first trial of this React Page!"
+    },
+    {
+      "id": 2,
+      "title": "",
+      "datetime": "May 30, 2023 8:49:54 PM",
+      "body": "second post in this page :)"
+    },
+    {
+      "id": 3,
+      "title": "Number Three",
+      "datetime": "July 16, 2021 11:48:01 AM",
+      "body": "Third post... "
+    },
+    {
+      "id": 4,
+      "title": "Testing a 4th post",
+      "datetime": "August 02, 2021 11:46:27 AM",
+      "body": "Some more testing paragraphs!"
+    }
+  ]
+}
